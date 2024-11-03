@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 tophe 197121  17 May 10 11:06 input.txt
+-rw-r--r-- 1 tophe 197121   0 May 10 11:08 output.txt
+-rw-r--r-- 1 tophe 197121 573 May 10 10:55 test1.txt
+-rw-r--r-- 1 tophe 197121 612 May 10 10:58 test2.txt
